@@ -5,4 +5,9 @@
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 !
-||taboola.com^
+||mangauptocats.online/wp-content/uploads/*.gif
+||mangauptocats.net/wp-content/uploads/*.gif
+||cdn.discordapp.com/attachments/738407629591937135/848269906499338300/14136472772691.gif
+||mangauptocats.online/wp-content/uploads/*.webp
+||1.bp.blogspot.com/*.gif
+||mangauptocats.net/wp-content/uploads/*.mp4
