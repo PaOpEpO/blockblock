@@ -5,12 +5,14 @@
 ! Expires: 7 days (update frequency)
 ! Homepage: 
 !
+||cdn.discordapp.com/attachments/738407629591937135/848269906499338300/14136472772691.gif
 ||mangauptocats.online/wp-content/uploads/*.gif
 ||mangauptocats.net/wp-content/uploads/*.gif
-||cdn.discordapp.com/attachments/738407629591937135/848269906499338300/14136472772691.gif
 ||mangauptocats.online/wp-content/uploads/*.webp
-||1.bp.blogspot.com/*.gif
+||mangauptocats.net/wp-content/uploads/*.webp
+||mangauptocats.online/wp-content/uploads/*.mp4
 ||mangauptocats.net/wp-content/uploads/*.mp4
+||1.bp.blogspot.com/*.gif
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-covering-overlay
 youtube.com##.ytp-ce-element-shadow
