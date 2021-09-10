@@ -25,3 +25,5 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/K9I6ZnS.gif
 ||i.imgur.com/hhdsbcN.gif
 ||i.imgur.com/ZdnF9SG.gif
+||i.imgur.com/mgWD4bG.gif
+||i.imgur.com/85MDmig.gif
