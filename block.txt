@@ -30,3 +30,4 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/Y9n0udo.gif
 ||sv1.picz.in.th/images/*.gif
 ||i.imgur.com/vL0FGdM.gif
+||i.imgur.com/bw7f75z.gif
