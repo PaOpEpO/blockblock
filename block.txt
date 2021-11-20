@@ -35,3 +35,4 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/Iq5Xddj.gif
 ||i.imgur.com/98a35eT.gif
 ||i.imgur.com/M0pgAdn.gif
+||i.imgur.com/1x3kqN0.gif
