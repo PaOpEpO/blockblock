@@ -37,3 +37,6 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/M0pgAdn.gif
 ||i.imgur.com/1x3kqN0.gif
 ||i.imgur.com/amerNHm.gif
+||i.imgur.com/7GioeXD.gif
+||i.imgur.com/VfnhfUJ.gif
+||i.imgur.com/iCbSdIL.gif
