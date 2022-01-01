@@ -1,0 +1,54 @@
+[uBlock Origin]
+! Version: 
+! Title: My Personal uBlock Filter List
+! Last modified: 
+! Expires: 7 days (update frequency)
+! Homepage: 
+!
+*.gif$image,domain=mangauptocats.online
+*.gif$image,domain=mangauptocats.net
+*.com-gif$imgae,domain=mangauptocat.online
+*.com-gif$imgae,domain=mangauptocat.net
+*.webp$imgae,domain=mangauptocat.online
+*.webp$imgae,domain=mangauptocat.net
+*.mp4$imgae,domain=mangauptocat.online
+*.mp4$imgae,domain=mangauptocat.net
+||cdn.discordapp.com/attachments/738407629591937135/848269906499338300/14136472772691.gif
+||mangauptocats.online/wp-content/uploads/*.gif
+||mangauptocats.net/wp-content/uploads/*.gif
+||mangauptocats.net/wp-content/uploads/*.com-gif
+||mangauptocats.online/wp-content/uploads/*.webp
+||mangauptocats.net/wp-content/uploads/*.webp
+||mangauptocats.online/wp-content/uploads/*.mp4
+||mangauptocats.net/wp-content/uploads/*.mp4
+||1.bp.blogspot.com/*.gif
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+||i.imgur.com/cEYC6ZQ.gif
+||i.imgur.com/RgwHHgM.gif
+||i.imgur.com/K9I6ZnS.gif
+||i.imgur.com/hhdsbcN.gif
+||i.imgur.com/ZdnF9SG.gif
+||i.imgur.com/mgWD4bG.gif
+||i.imgur.com/85MDmig.gif
+||i.imgur.com/Y9n0udo.gif
+||sv1.picz.in.th/images/*.gif
+||i.imgur.com/vL0FGdM.gif
+||i.imgur.com/bw7f75z.gif
+||i.imgur.com/fTf4Xxc.gif
+||i.imgur.com/Iq5Xddj.gif
+||i.imgur.com/98a35eT.gif
+||i.imgur.com/M0pgAdn.gif
+||i.imgur.com/1x3kqN0.gif
+||i.imgur.com/amerNHm.gif
+||i.imgur.com/7GioeXD.gif
+||i.imgur.com/VfnhfUJ.gif
+||i.imgur.com/iCbSdIL.gif
+||i.imgur.com/7GioeXD.gif
+||i.imgur.com/VfnhfUJ.gif
+||i.imgur.com/cEYC6ZQ.gif
