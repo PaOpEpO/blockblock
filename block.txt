@@ -44,3 +44,4 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/7GioeXD.gif
 ||i.imgur.com/VfnhfUJ.gif
 ||i.imgur.com/cEYC6ZQ.gif
+||imgon.art/storage/images/newyork.webp
