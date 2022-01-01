@@ -8,6 +8,7 @@
 ||cdn.discordapp.com/attachments/738407629591937135/848269906499338300/14136472772691.gif
 ||mangauptocats.online/wp-content/uploads/*.gif
 ||mangauptocats.net/wp-content/uploads/*.gif
+||mangauptocats.net/wp-content/uploads/*.com-gif
 ||mangauptocats.online/wp-content/uploads/*.webp
 ||mangauptocats.net/wp-content/uploads/*.webp
 ||mangauptocats.online/wp-content/uploads/*.mp4
@@ -40,3 +41,6 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/7GioeXD.gif
 ||i.imgur.com/VfnhfUJ.gif
 ||i.imgur.com/iCbSdIL.gif
+||i.imgur.com/7GioeXD.gif
+||i.imgur.com/VfnhfUJ.gif
+||i.imgur.com/cEYC6ZQ.gif
