@@ -7,10 +7,18 @@
 !
 *.gif$image,domain=mangauptocats.online
 *.gif$image,domain=mangauptocats.net
+*.gif$image,domain=mangauptocat.net
+*.gif$image,domain=mangauptocat.online
+*.com-gif$imgae,domain=mangauptocats.online
+*.com-gif$imgae,domain=mangauptocats.net
 *.com-gif$imgae,domain=mangauptocat.online
 *.com-gif$imgae,domain=mangauptocat.net
+*.webp$imgae,domain=mangauptocats.online
+*.webp$imgae,domain=mangauptocats.net
 *.webp$imgae,domain=mangauptocat.online
 *.webp$imgae,domain=mangauptocat.net
+*.mp4$imgae,domain=mangauptocats.online
+*.mp4$imgae,domain=mangauptocats.net
 *.mp4$imgae,domain=mangauptocat.online
 *.mp4$imgae,domain=mangauptocat.net
 *.gif$image,domain=bp.blogspot.com
@@ -46,3 +54,4 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||i.imgur.com/VfnhfUJ.gif
 ||i.imgur.com/cEYC6ZQ.gif
 ||imgon.art/storage/images/newyork.webp
+||imgon.art/storage/images/pgjoker69.webp
