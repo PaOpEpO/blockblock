@@ -22,7 +22,7 @@
 *.mp4$image,domain=mangauptocat.online
 *.mp4$image,domain=mangauptocat.net
 *.gif$image,domain=bp.blogspot.com
-*.gif$image,doamin=sv1.picz.in.th
+*.gif$image,domain=sv1.picz.in.th
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-covering-overlay
 youtube.com##.ytp-ce-element-shadow
