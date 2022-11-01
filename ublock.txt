@@ -57,3 +57,4 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||imgon.art/storage/images/newyork.webp
 ||imgon.art/storage/images/pgjoker69.webp
 ||sv1.picz.in.th/images/*.gif
+||sv1.picz.in.th/images/2022/09/14/aJGAu2.jpg
