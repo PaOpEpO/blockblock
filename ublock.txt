@@ -17,6 +17,7 @@
 *.webp$image,domain=mangauptocats.net
 *.webp$image,domain=mangauptocat.online
 *.webp$image,domain=mangauptocat.net
+*.webp$image,domain=pic.in.th
 *.mp4$image,domain=mangauptocats.online
 *.mp4$image,domain=mangauptocats.net
 *.mp4$image,domain=mangauptocat.online
@@ -24,6 +25,7 @@
 *.gif$image,domain=bp.blogspot.com
 *.gif$image,domain=sv1.picz.in.th
 *.gif$image,domain=picz.in.th
+*.gif$image,domain=pic.in.th
 youtube.com##.ytp-ce-element
 youtube.com##.ytp-ce-covering-overlay
 youtube.com##.ytp-ce-element-shadow
