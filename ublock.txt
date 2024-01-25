@@ -59,3 +59,7 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 ||sv1.picz.in.th/images/*.gif
 ||sv1.picz.in.th/images/2022/09/14/aJGAu2.jpg
 doujin-th.com##.bs-docs-nav.navbar-inverse.navbar-fixed-top.navbar
+||img2.pic.in.th/pic/*.gif
+||img2.pic.in.th/pic/*.webp
+||img5.pic.in.th/pic/*.gif
+||img5.pic.in.th/pic/*.webp
