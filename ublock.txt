@@ -65,3 +65,4 @@ doujin-th.com##.bs-docs-nav.navbar-inverse.navbar-fixed-top.navbar
 ||img2.pic.in.th/pic/*.webp
 ||img5.pic.in.th/file/secure-sv1/*.gif
 ||img5.pic.in.th/file/secure-sv1/*.webp
+||animeyuzu.com/ads/*$image
